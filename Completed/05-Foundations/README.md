@@ -1,1 +1,11 @@
-
+|                             05-Foundations                        |
+| :------------------------------------------------------------------------: |
+| https://colab.research.google.com/drive/1lwjlX7gYGhf8IN44ne5_QpXa3sdiKCWg |
+| https://colab.research.google.com/drive/1a1eLjaW9ltrti-3SWHoUo2KmnKbsq7ts |
+| https://colab.research.google.com/drive/1_2SxMBJkXxSeVTG_jeB3gIo7EBlMOZPp |
+| https://colab.research.google.com/drive/1QMwUwrw9PN0SI6kh5JWoyHE5VJ1QooCV |
+| https://colab.research.google.com/drive/1h-VY9s2GPNsx9O2xDWgBcT1B6zkL8gzL |
+| https://colab.research.google.com/drive/1FotdkOcvliddK-e3Ek_odAzWlzJoYQup |
+| https://colab.research.google.com/drive/1ufMKt-2NEUKr_2MzbAUfZ4toHYkFppCd |
+| https://colab.research.google.com/drive/1xlnqcFksFPQy1rMAEZIPJ6s3vY7jOojK |
+| https://colab.research.google.com/drive/1M8rCSjlhktm1GUXtApVuNtNQ9hFbSrSC |
