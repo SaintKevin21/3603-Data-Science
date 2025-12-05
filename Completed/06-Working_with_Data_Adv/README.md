@@ -1,1 +1,10 @@
-
+|                             06-Working_with_Data_Adv                        |
+| :------------------------------------------------------------------------: |
+| https://colab.research.google.com/drive/1ervN9S1_QfCdIIEId2_7JjiiDER4b664 |
+| https://colab.research.google.com/drive/1ugZoeGXAyetWcWU3d9Ty0eLQSV37g9x0 |
+| https://colab.research.google.com/drive/1OhT3TBJ1NUXsgH7UXf2fMKaIKnHS4UDr |
+| https://colab.research.google.com/drive/1nkPQweCLFSobMuO0gm3k422wO_Uelhzz |
+| https://colab.research.google.com/drive/1orVcPY8HnftOj6pbUHRgL_-wOq1Gf3D- |
+| https://colab.research.google.com/drive/1H0RjddVAINJt0-k4ltZC3H8R64wgeIry |
+| https://colab.research.google.com/drive/1InEzYmFLLXC9SOLZyaUjg9Lmr83Wz-jI |
+| https://colab.research.google.com/drive/1fUoWrw7-Tf9dDpAG_70IUNVk_UbiZYLq |
